@@ -1,0 +1,21 @@
+se crean los canales de recepción
+
+el cliente se mete a la pagina y ve los canales disponibles. 
+
+el cliente se conecta a un canal y enviar la invitacion a el otro cliente(max 3 clientes por canal). 
+
+el cliente 1 enviar el archivo al servidor y solo estara disponile en el canal que lo envio. 
+
+
+//interfaz del servidor: cliente de estado del servidor. 
+- mostrar que clientes estan conectados.  
+- que canales estan siendo usados. 
+- cuantos archivos se estan enviando. 
+- otras metricas
+
+
+agregados:
+
+- el cliente que envia el archivo recibe un link de invitacion al canal en el cual esta el archivo y lo puede descargar. 
+
+- el canal se desbloquea con una clave para que no todos puedan entrar(posible)

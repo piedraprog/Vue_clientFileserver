@@ -17,10 +17,6 @@
 
         <button @click="onUpload()">Enviar</button>
     </div>
-        
-  
-
-
 	<div v-if="showMsg">
 		<h3>Message in the WebSocket</h3>
 		<p>
